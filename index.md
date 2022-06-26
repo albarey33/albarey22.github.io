@@ -1,10 +1,30 @@
+## PORTFOLIO
+
 ---
 layout: default
 ---
 
+### Category Name 1
+
+# FIRST TITLE: DATA SCIENTIST ALBAREY33
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+
+[Project 1: Example Data Munging](./another-page.html).
+
+[Project 1: Example Data Wrangling](./another-page.html).
+
+[Project 1: Example Data Cleaning](./another-page.html).
+
+### Category Name 2: Rutinary Tasks
+
+- [Project 1: Merging Data from Different File](./another-page.html).
+
+Data Script in R with explanation
+
+- [Project 1: Comparing and Matching same data columns with different field names](./another-page.html).
 
 There should be whitespace between paragraphs.
 
